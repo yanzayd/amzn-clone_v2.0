@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# amzn-clone_v2.0
-=======
 # Installation Steps
 
 
@@ -29,4 +26,3 @@ Run commands
 ### If you see the window below then you are set to build AMAZON 2.0!
 
 ![Template Screenshot](TemplateScreenshot.jpg?raw=true "Template Screenshot")
->>>>>>> 342f2ec (some descriptive message)
