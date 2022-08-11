@@ -16,13 +16,19 @@
     "react": "17.0.1",
     "react-currency-formatter": "^1.1.0",
     "react-dom": "17.0.1",
+<<<<<<< HEAD
     "react-easy-swipe": "^0.0.22",
+=======
+>>>>>>> 6adf068 (some corrections)
     "react-redux": "7.2.2",
     "react-responsive-carousel": "^3.2.23"
   },
   "license": "MIT",
   "devDependencies": {
+<<<<<<< HEAD
     "@types/react": "^18.0.17",
+=======
+>>>>>>> 6adf068 (some corrections)
     "autoprefixer": "^10.2.5",
     "postcss": "^8.2.15",
     "tailwindcss": "^2.1.2"
