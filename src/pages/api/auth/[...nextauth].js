@@ -11,3 +11,7 @@ export default NextAuth({
     // ...add more providers here
   ],
 })
+
+
+//callback
+//https://amzn-clone-v2-0-d6oe03hp6-yanzayd.vercel.app/api/auth/callback/google
