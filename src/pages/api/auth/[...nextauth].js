@@ -14,4 +14,4 @@ export default NextAuth({
 
 
 //callback
-//https://amzn-clone-v2-0-d6oe03hp6-yanzayd.vercel.app/api/auth/callback/google
+//https://amzn-clone-v2-0-yanzayd.vercel.app/api/auth/callback/google
